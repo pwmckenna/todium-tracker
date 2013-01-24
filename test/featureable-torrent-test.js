@@ -1,4 +1,4 @@
-var trackabletorrent = require('../lib/trackabletorrent.js');
+var featureabletorrent = require('../lib/featureable-torrent.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -28,7 +28,7 @@ exports['awesome'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(trackabletorrent.awesome(), 'awesome', 'should be awesome.');
+    test.equal(featureabletorrent.awesome(), 'awesome', 'should be awesome.');
     test.done();
   }
 };

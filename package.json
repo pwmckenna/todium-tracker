@@ -1,26 +1,26 @@
 {
-  "name": "trackabletorrent",
-  "description": "The best project ever.",
+  "name": "featureable-torrent",
+  "description": "Create featureable torrents that usage stats are available for",
   "version": "0.1.0",
-  "homepage": "https://github.com/pwmckenna/trackabletorrent",
+  "homepage": "https://github.com/pwmckenna/featureable-torrent",
   "author": {
     "name": "Patrick Williams",
     "email": "pwmckenna@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pwmckenna/trackabletorrent.git"
+    "url": "git://github.com/pwmckenna/featureable-torrent.git"
   },
   "bugs": {
-    "url": "https://github.com/pwmckenna/trackabletorrent/issues"
+    "url": "https://github.com/pwmckenna/featureable-torrent/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/pwmckenna/trackabletorrent/blob/master/LICENSE-MIT"
+      "url": "https://github.com/pwmckenna/featureable-torrent/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/trackabletorrent",
+  "main": "lib/featureable-torrent",
   "engines": {
     "node": "0.8.x",
     "npm": "1.1.x"
@@ -33,6 +33,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "express": "~3.0.6"
+    "express": "~3.0.6",
+    "faye-websocket": "~0.4.3"
   }
 }

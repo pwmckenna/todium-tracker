@@ -1,1 +1,1 @@
-web: node lib/trackable-torrent.js
+web: node lib/featureable-torrent.js

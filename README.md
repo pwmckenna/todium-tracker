@@ -1,13 +1,11 @@
-# trackabletorrent
+# Featureable
 
-The best project ever.
+Featureable torrent creates a version of a torrent/magnet link that you can see download stats for. 
 
 ## Getting Started
-Install the module with: `npm install trackabletorrent`
+Install the module with: `npm install featurable `
 
 ```javascript
-var trackabletorrent = require('trackabletorrent');
-trackabletorrent.awesome(); // "awesome"
 ```
 
 ## Documentation
