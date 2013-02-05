@@ -1,26 +1,26 @@
 {
-  "name": "featureable-torrent",
+  "name": "todium-tracker",
   "description": "Create featureable torrents that usage stats are available for",
   "version": "0.1.0",
-  "homepage": "https://github.com/pwmckenna/featureable-torrent",
+  "homepage": "https://github.com/pwmckenna/todium-tracker",
   "author": {
     "name": "Patrick Williams",
     "email": "pwmckenna@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pwmckenna/featureable-torrent.git"
+    "url": "git://github.com/pwmckenna/todium-tracker.git"
   },
   "bugs": {
-    "url": "https://github.com/pwmckenna/featureable-torrent/issues"
+    "url": "https://github.com/pwmckenna/todium-tracker/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/pwmckenna/featureable-torrent/blob/master/LICENSE-MIT"
+      "url": "https://github.com/pwmckenna/todium-tracker/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/featureable-torrent",
+  "main": "lib/todium-tracker",
   "engines": {
     "node": "0.8.x",
     "npm": "1.1.x"

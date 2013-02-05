@@ -1,6 +1,6 @@
-# Featureable
+# Todium Tracker
 
-Featureable torrent creates a version of a torrent/magnet link that you can see download stats for. 
+Todium Tracker creates a version of a torrent/magnet link that you can see download stats for. 
 
 ## Getting Started
 Install the module with: `npm install featurable `
